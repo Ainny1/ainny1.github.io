@@ -20,18 +20,41 @@ Whether it's scanning web forms for sneaky XSS payloads or securing cloud enviro
 
 ## 🚀 Certifications I’m Proud Of
 
-| | **Category**                         | Certification                         | Organization                   | Year  |
-|-------------------------------------|---------------------------------------|--------------------------------|--------|
-| **Security Certifications**         | CompTIA Security+                     | CompTIA                        | 2024   |
-|                                     | CompTIA PenTest+                      | CompTIA                        | 2024   |
-|                                     | CompTIA CNVP                          | CompTIA                        | 2024   |
-| **Networking Certifications**       | Cisco CCNA                            | Cisco                          | 2025   |
-| **Cloud Certifications**            | AWS Cloud Practitioner                | AWS                            | 2025   |
-|                                     | Azure Fundamentals                    | Microsoft                      | 2025   |
-| **DevOps & Tools**                  | Terraform for Infrastructure as Code  | Coursera/Udemy                 | 2025   |
-|                                     | Splunk Core Certified User            | Splunk                         | 2025   |
-|                                     | Kubernetes for Beginners              | Udemy                          | 2025   |
-| **Project Management**              | Scrum Master                          | International Scrum Institute  | 2023   |
+<h2 align="center" style="color:#39ff14;">
+┌───────────────────────────────────────┐<br>
+|    💀 CERTIFICATION LOADOUT INITIATED   |<br>
+└───────────────────────────────────────┘
+</h2>
+
+<pre style="color:#39ff14">
+███╗   ███╗ █████╗ ██████╗ ██╗   ██╗███████╗██╗██████╗ 
+████╗ ████║██╔══██╗██╔══██╗██║   ██║██╔════╝██║██╔══██╗
+██╔████╔██║███████║██████╔╝██║   ██║█████╗  ██║██████╔╝
+██║╚██╔╝██║██╔══██║██╔═══╝ ██║   ██║██╔══╝  ██║██╔═══╝ 
+██║ ╚═╝ ██║██║  ██║██║     ╚██████╔╝███████╗██║██║     
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝      ╚═════╝ ╚══════╝╚═╝╚═╝     
+</pre>
+
+```bash
+#> SECURITY MODULES LOADED
+[+] CompTIA Security+             | CompTIA        | 2024
+[+] CompTIA PenTest+              | CompTIA        | 2024
+[+] CompTIA CNVP                  | CompTIA        | 2024
+
+#> NETWORK STACK VERIFIED
+[+] Cisco CCNA                    | Cisco          | 2025
+
+#> CLOUD ACCESS GRANTED
+[+] AWS Cloud Practitioner        | AWS            | 2025
+[+] Azure Fundamentals            | Microsoft      | 2025
+
+#> DEVOPS GEAR EQUIPPED
+[+] Terraform for IaC             | Coursera/Udemy | 2025
+[+] Splunk Core Certified User    | Splunk         | 2025
+[+] Kubernetes for Beginners      | Udemy          | 2025
+
+#> PROJECT NAVIGATION STABLE
+[+] Scrum Master                  | Scrum Institute| 2023
 
 ---
 
