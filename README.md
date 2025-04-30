@@ -59,5 +59,5 @@ Come for the tech tips, stay for the caffeine-fueled study grinds, digital aesth
 ## 💌 Let’s Connect
 - **Email:** Rizzomct.1@outlook.com  
 - **Fun fact:** I love turning logs into stories and alerts into insights.  
-- **Looking for:** Cybersecurity Analyst | SOC Analyst | GRC roles  
+- **Looking for:** Cybersecurity Analyst | SOC Analyst | GRC roles | Network Analyst | CCNA Certified
 - **Open to:** Remote & hybrid opportunities — let’s build something secure together!
