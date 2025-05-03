@@ -14,7 +14,7 @@
 ## ⚔️ About Me
 
 Cybersecurity isn’t just my career — it’s my battlefield.  
-I’m a digital guardian with a background in **Public Relations** and a passion for offensive security, blue team defense, and cloud hardening.
+I’m a digital guardian with a background in **Public Relations** and a passion for offensive security, blue team and Red Team defense, and cloud hardening.
 
 From intercepting rogue payloads to building scanners from scratch, I blend **creativity**, **curiosity**, and **code** to protect systems and teach others to do the same.
 
