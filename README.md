@@ -1,43 +1,30 @@
-<h1 align="center" style="color:#39ff14;">⚡ Mary-Cynthia Terese Rizzo ⚡</h1>
-<p align="center"><strong>Cybersecurity Specialist | Network Defender | Cloud Adventurer (AWS, Azure)</strong></p>
-<p align="center">📍 San Diego, CA</p>
+âš¡ ainny1 âš¡
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mary-cynthia-r-7533886b">LinkedIn</a> • 
-  <a href="https://github.com/Ainny1">GitHub</a> • 
-  <a href="https://instagram.com/Ch424d3">Instagram</a> • 
-  TryHackMe: <a href="https://tryhackme.com/p/Ainny1">Ainny1</a>
-</p>
+Cybersecurity Specialist | Network Defender | Cloud Adventurer (AWS, Azure)
 
----
+ðŸ“ Somewhere in Cyberspace
 
-## ⚔️ About Me
+LinkedIn â€¢ GitHub â€¢ Instagram â€¢ TryHackMe: Ainny1
 
-Cybersecurity isn’t just my career — it’s my battlefield.  
-I’m a digital guardian with a background in **Public Relations** and a passion for offensive security, blue team and Red Team defense, and cloud hardening.
+âš”ï¸ About Me
 
-From intercepting rogue payloads to building scanners from scratch, I blend **creativity**, **curiosity**, and **code** to protect systems and teach others to do the same.
+Cybersecurity isnâ€™t just my career â€” itâ€™s my battlefield.
+Iâ€™m a digital guardian with a flair for public-facing comms and a love for offensive tactics, blue team defense, and cloud hardening.
 
----
+From intercepting rogue payloads to crafting custom scanners, I mix creativity, curiosity, and code to fortify systems and help others do the same.
 
-## 🚀 CERTIFICATION LOADOUT
+ðŸš€ CERTIFICATION LOADOUT
 
-<h2 align="center" style="color:#39ff14;">
-┌──────────────────────────────────────┐<br>
-|   💀 SYSTEM BOOT >> CREDENTIAL STACK |<br>
-└──────────────────────────────────────┘
-</h2>
+â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+| ðŸ’€ SYSTEM BOOT >> CREDENTIAL STACK |
+â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
 
-<pre align="center">
-███████╗███████╗██████╗ ███████╗███████╗███╗   ██╗
-██╔════╝██╔════╝██╔══██╗██╔════╝██╔════╝████╗  ██║
-███████╗█████╗  ██████╔╝█████╗  █████╗  ██╔██╗ ██║
-╚════██║██╔══╝  ██╔═══╝ ██╔══╝  ██╔══╝  ██║╚██╗██║
-███████║███████╗██║     ███████╗███████╗██║ ╚████║
-╚══════╝╚══════╝╚═╝     ╚══════╝╚══════╝╚═╝  ╚═══╝
-</pre>
-
-```bash
+â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•— â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—â–ˆâ–ˆâ–ˆâ•—   â–ˆâ–ˆâ•—
+â–ˆâ–ˆâ•”â•â•â•â•â•â–ˆâ–ˆâ•”â•â•â•â•â•â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•—â–ˆâ–ˆâ•”â•â•â•â•â•â–ˆâ–ˆâ•”â•â•â•â•â•â–ˆâ–ˆâ–ˆâ–ˆâ•—  â–ˆâ–ˆâ•‘
+â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•”â•â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—  â–ˆâ–ˆâ•”â–ˆâ–ˆâ•— â–ˆâ–ˆâ•‘
+â•šâ•â•â•â•â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•”â•â•â•  â–ˆâ–ˆâ•”â•â•â•â• â–ˆâ–ˆâ•”â•â•â•  â–ˆâ–ˆâ•”â•â•â•  â–ˆâ–ˆâ•‘â•šâ–ˆâ–ˆâ•—â–ˆâ–ˆâ•‘
+â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•‘â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—â–ˆâ–ˆâ•‘     â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—â–ˆâ–ˆâ•‘ â•šâ–ˆâ–ˆâ–ˆâ–ˆâ•‘
+â•šâ•â•â•â•â•â•â•â•šâ•â•â•â•â•â•â•â•šâ•â•     â•šâ•â•â•â•â•â•â•â•šâ•â•â•â•â•â•â•â•šâ•â•  â•šâ•â•â•â•
 #> SECURITY MODULES
 [+] CompTIA Security+             | CompTIA        | 2024
 [+] CompTIA PenTest+              | CompTIA        | 2024
@@ -57,32 +44,34 @@ From intercepting rogue payloads to building scanners from scratch, I blend **cr
 
 #> TACTICAL OVERSIGHT
 [+] Scrum Master                  | Scrum Institute| 2023
-🧪 Featured Projects
+ðŸ§ª Featured Projects
 
-⚡ Advanced Web Form Vulnerability Scanner
-A Python-powered beast that scans web forms and injects XSS & SQLi payloads like a ghost in the machine.
-Tracks form inputs
-Sends test payloads
-Logs vulnerability responses
-Sharpens red team reflexes
-[🔍 Network Monitoring Toolkit] (Coming Soon)
-A Python + Wireshark fusion designed to track and analyze live traffic — from ICMP to stealth scans.
-🧠 TryHackMe Labs
-70+ rooms completed. Topics include:
+âš¡ Advanced Web Form Vulnerability Scanner
+
+Crawls web forms
+Injects XSS & SQLi payloads
+Logs vuln responses like a digital detective
+ðŸ” Network Monitoring Toolkit (Coming Soon)
+
+Live traffic analysis
+Signature/Anomaly detection
+ICMP to stealth scans, decoded
+ðŸ§  TryHackMe Labs
+
 Privilege Escalation
-Web Application Hacking
+Web App Hacking
 SOC Monitoring
-Red/Blue Team Methodologies
-✨ Instagram Vibe Check
+Red/Blue Team Tactics
+âœ¨ Instagram Vibe Check
 
 @Ch424d3
 
-“Glitchy grids, security memes, and the occasional caffeine-fueled rants.”
-Digital journal meets cyber diary.
-💬 Let’s Connect
+â€œGlitchy grids, security memes, and the occasional caffeine-fueled rants.â€
+Think of it as a digital journal with zero chill and max packet captures.
+ðŸ’¬ Letâ€™s Connect
 
-Email: Rizzomct.1@outlook.com
-Looking for: SOC Analyst | Vulnerability Analyst | GRC | Network Analyst
-Fun fact: I turn packet captures into stories and firewalls into fortresses.
-Availability: Remote & hybrid opportunities welcomed — let’s build secure systems together!
-“Born for breach detection. Trained for zero-day warfare. Ready for whatever’s next.”
+Email: [Encrypted. Request access.]
+Seeking: SOC Analyst | Vulnerability Analyst | GRC | Network Analyst
+Fun Fact: I turn packet captures into stories and firewalls into fortresses.
+Availability: Remote & hybrid â€” letâ€™s build secure systems together.
+â€œBorn for breach detection. Trained for zero-day warfare. Ready for whateverâ€™s next.â€
