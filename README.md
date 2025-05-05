@@ -24,7 +24,7 @@ Location: Somewhere in the Matrix...
 ```
 
 ### About Me:  
-Hello, human. I’m ainny1 — your friendly neighborhood packet whisperer.  
+Hello, human. I’m ainny1 your friendly neighborhood packet whisperer.  
 I spend my days fortifying the cloud, decrypting chaos, and occasionally talking to my terminal like it's a pet.
 
 Fun facts:
