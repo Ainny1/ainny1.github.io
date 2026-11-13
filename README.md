@@ -6,9 +6,20 @@ A mobile-friendly pink-and-lilac cybersecurity portfolio highlighting defensive 
 
 ## Features
 - Responsive HTML/CSS with a floral-inspired cyber aesthetic
-- Six linked GitHub projects and clearly scoped descriptions
+- Linked cybersecurity projects with clearly scoped descriptions and an additional planned-project roadmap
 - About, skills, and professional profile sections
 - No external scripts, trackers, fonts, or build dependencies
+
+## Project roadmap
+The live website includes existing linked projects plus clearly marked **planned** labs:
+- AI-assisted SOC analyst evaluation (synthetic alerts)
+- AWS cloud security configuration auditor (read-only lab)
+- Healthcare IAM access review (fictional records)
+- Phishing email forensics (synthetic email)
+- Network intrusion detection study (sample captures)
+- Isolated web vulnerability assessment lab
+
+Planned labs are not represented as completed code or tested outcomes.
 
 ## Preview and deploy
 Open `index.html` locally in a browser. To publish, merge the pull request and verify **Settings → Pages → Deploy from a branch → main / (root)**.
