@@ -1,85 +1,86 @@
 <h1 align="center" style="color:#39ff14;">⚡ Ainny1 ⚡</h1>
 <p align="center"><strong>Cybersecurity Specialist | Network Defender | Cloud Adventurer (AWS, Azure)</strong></p>
-<p align="center">San Diego, CA</p>
+<p align="center">📍 San Diego, CA</p>
+
 <p align="center">
   <a href="https://github.com/Ainny1">GitHub</a> • 
-  <a href="https://instagram.com/yourhandle">Instagram</a> • 
-  TryHackMe: Ainny1
+  <a href="https://instagram.com/Ch424d3">Instagram</a> • 
+  TryHackMe: <a href="https://tryhackme.com/p/Ainny1">Ainny1</a>
 </p>
 
 ---
 
-## Hey there! I’m Ainny1
+## ⚔️ About Me
 
-I’m a cybersecurity enthusiast with a flair for solving complex problems and making networks behave. With a unique background in Public Relations and a sharp technical toolkit, I bring the best of both worlds: clear communication *and* ironclad defense.
+Cybersecurity isn’t just my career — it’s my battlefield.  
+I’m a digital guardian with a background in **Public Relations** and a passion for offensive security, blue team defense, and cloud hardening.
 
-Whether it's scanning web forms for sneaky XSS payloads or securing cloud environments, I’m all about blending curiosity, creativity, and code to make the digital world safer — one vulnerability at a time.
+From intercepting rogue payloads to building scanners from scratch, I blend **creativity**, **curiosity**, and **code** to protect systems and teach others to do the same.
 
 ---
 
-## 🚀 Certifications I’m Proud Of
+## 🚀 CERTIFICATION LOADOUT
 
 <h2 align="center" style="color:#39ff14;">
-┌───────────────────────────────────────┐<br>
-|    💀 CERTIFICATION LOADOUT INITIATED   |<br>
-└───────────────────────────────────────┘
+┌──────────────────────────────────────┐<br>
+|   💀 SYSTEM BOOT >> CREDENTIAL STACK |<br>
+└──────────────────────────────────────┘
 </h2>
 
-<pre style="color:#39ff14">
-███╗   ███╗ █████╗ ██████╗ ██╗   ██╗███████╗██╗██████╗ 
-████╗ ████║██╔══██╗██╔══██╗██║   ██║██╔════╝██║██╔══██╗
-██╔████╔██║███████║██████╔╝██║   ██║█████╗  ██║██████╔╝
-██║╚██╔╝██║██╔══██║██╔═══╝ ██║   ██║██╔══╝  ██║██╔═══╝ 
-██║ ╚═╝ ██║██║  ██║██║     ╚██████╔╝███████╗██║██║     
-╚═╝     ╚═╝╚═╝  ╚═╝╚═╝      ╚═════╝ ╚══════╝╚═╝╚═╝     
+<pre align="center">
+███████╗███████╗██████╗ ███████╗███████╗███╗   ██╗
+██╔════╝██╔════╝██╔══██╗██╔════╝██╔════╝████╗  ██║
+███████╗█████╗  ██████╔╝█████╗  █████╗  ██╔██╗ ██║
+╚════██║██╔══╝  ██╔═══╝ ██╔══╝  ██╔══╝  ██║╚██╗██║
+███████║███████╗██║     ███████╗███████╗██║ ╚████║
+╚══════╝╚══════╝╚═╝     ╚══════╝╚══════╝╚═╝  ╚═══╝
 </pre>
 
 ```bash
-#> SECURITY MODULES LOADED
+#> SECURITY MODULES
 [+] CompTIA Security+             | CompTIA        | 2024
 [+] CompTIA PenTest+              | CompTIA        | 2024
 [+] CompTIA CNVP                  | CompTIA        | 2024
 
-#> NETWORK STACK VERIFIED
+#> NETWORK OPERATIONS
 [+] Cisco CCNA                    | Cisco          | 2025
 
-#> CLOUD ACCESS GRANTED
+#> CLOUD INTEL
 [+] AWS Cloud Practitioner        | AWS            | 2025
 [+] Azure Fundamentals            | Microsoft      | 2025
 
-#> DEVOPS GEAR EQUIPPED
+#> DEVOPS TOOLCHAIN
 [+] Terraform for IaC             | Coursera/Udemy | 2025
 [+] Splunk Core Certified User    | Splunk         | 2025
 [+] Kubernetes for Beginners      | Udemy          | 2025
 
-#> PROJECT NAVIGATION STABLE
+#> TACTICAL OVERSIGHT
 [+] Scrum Master                  | Scrum Institute| 2023
+🧪 Featured Projects
 
----
+⚡ Advanced Web Form Vulnerability Scanner
+A Python-powered beast that scans web forms and injects XSS & SQLi payloads like a ghost in the machine.
+Tracks form inputs
+Sends test payloads
+Logs vulnerability responses
+Sharpens red team reflexes
+[🔍 Network Monitoring Toolkit] (Coming Soon)
+A Python + Wireshark fusion designed to track and analyze live traffic — from ICMP to stealth scans.
+🧠 TryHackMe Labs
+70+ rooms completed. Topics include:
+Privilege Escalation
+Web Application Hacking
+SOC Monitoring
+Red/Blue Team Methodologies
+✨ Instagram Vibe Check
 
-## 🧠 Featured Projects (AKA my Cyber Lab Creations)
+@Ch424d3
 
-### [Advanced Web Form Vulnerability Scanner](https://github.com/Ainny1/AdvancedWebFormVulnerabilityScanner)
-A Python-powered scanner that hunts down XSS and SQLi like a digital bloodhound.  
-<em>Why I built it:</em> To sharpen my offensive skills and help defenders think like attackers.
+“Glitchy grids, security memes, and the occasional caffeine-fueled rants.”
+Digital journal meets cyber diary.
+💬 Let’s Connect
 
-### Network Monitoring Toolkit *(Coming Soon)*
-A snazzy Python + Wireshark combo to track real-time network traffic.  
-<em>Think of it as a radar for sneaky packets.</em>
-
-### [TryHackMe Labs](https://tryhackme.com/p/Ainny1)
-Completed over 70 hands-on labs on topics like privilege escalation, web app pentesting, and SOC operations.  
-<em>Learning by hacking responsibly — and loving every second of it!</em>
-
----
-
-## ✨ Instagram: [@Ch424d3](https://instagram.com/Ch424d3)
-Come for the tech tips, stay for the caffeine-fueled study grinds, digital aesthetics, and a peek into the life of a cyber nerd.  
-> "Tech with a touch of sparkle."
-
----
-
-## 💌 Let’s Connect
-- **Fun fact:** I love turning logs into stories and alerts into insights.  
-- **Looking for:** Cybersecurity Analyst | SOC Analyst | GRC roles | Network Analyst | CCNA Certified
-- **Open to:** Remote & hybrid opportunities — let’s build something secure together!
+Looking for: SOC Analyst | Vulnerability Analyst | GRC | Network Analyst
+Fun fact: I turn packet captures into stories and firewalls into fortresses.
+Availability: Remote & hybrid opportunities welcomed — let’s build secure systems together!
+“Born for breach detection. Trained for zero-day warfare. Ready for whatever’s next.”
